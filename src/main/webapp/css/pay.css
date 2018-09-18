@@ -1,0 +1,55 @@
+.btn{
+    width:90%;
+    height:45px;
+    line-height:45px\9;
+    overflow:hidden;
+    background-color:#ff4e00;
+    color:#FFF; font-size:1.3em;
+    font-family:"Microsoft YaHei";
+    text-align:center; border:0;
+    border-radius:2px;
+    -mos-border-radius:2px;
+    -webkit-border-radius:2px;
+}
+.btn_right{
+    float: right;
+}
+.btn_left{
+    float: left;
+}
+.space_10{
+    height: 10%;
+    background-color: #f6f6f6;
+}
+.space_15{
+    height: 15%;
+    background-color: #f6f6f6;
+}
+.space_20{
+    height: 20%;
+    background-color: #f6f6f6;
+}
+.title_text{
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.5em;
+    font-family: "Microsoft YaHei";
+    text-align: center;
+    margin-bottom: 20px;
+}
+.title_text_long{
+    width: 90%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.5em;
+    font-family: "Microsoft YaHei";
+    text-align: inherit;
+    margin-bottom: 20px;
+}
+.text-size-12{
+    font-size: 1.2em;
+}
+.list-height{
+    height:30px;
+    line-height: 30px;
+}
